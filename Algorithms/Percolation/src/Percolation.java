@@ -1,5 +1,3 @@
-import edu.princeton.cs.algs4.StdRandom;
-import edu.princeton.cs.algs4.StdStats;
 import edu.princeton.cs.algs4.WeightedQuickUnionUF;
 
 public class Percolation {
@@ -16,22 +14,22 @@ public class Percolation {
         gridSize = n;
         grid = new boolean[n][n];
         bot = n * n + 1;
-        connect = new WeightedQuickUnionUF(n * n);
-        for (int i = 0; i <= n; i++) {
-            for (int j = 0; j <= n; j++) {
-                grid[i - 1][j - 1] = false;
-            }
-        }
+        connect = new WeightedQuickUnionUF(n * n + 2);
+//        for (int i = 1; i <= n; i++) {
+//            for (int j = 1; j <= n; j++) {
+//                grid[i - 1][j - 1] = false;
+//            }
+//        }
     }
 
     public void open(int row, int col)       // open site (row, col) if it is not open already
     {
-        if (isOpen(row, col)) {
+//        if (isOpen(row, col) == false) {
             grid[row - 1][col - 1] = true;
-            opencount++;
-        }
+//            opencount++;
+//        }
         if (row == 1) connect.union(col, top);
-        else if (row == gridSize) connect.union(getIndex(row, col), bot);
+        else if (row == gridSize) connect.union(getIndex(row , col), bot);
         else {
             if (isOpen(row, col - 1)) connect.union(getIndex(row, col - 1), getIndex(row, col));
             else if (isOpen(row, col + 1)) connect.union(getIndex(row, col + 1), getIndex(row, col));
@@ -42,8 +40,9 @@ public class Percolation {
 
     public boolean isOpen(int row, int col)  // is site (row, col) open?
     {
-        return grid[row][col];
+        return grid[row - 1][col - 1];
     }
+
 
     public boolean isFull(int row, int col)  // is site (row, col) full?
     {
@@ -64,8 +63,4 @@ public class Percolation {
         return gridSize * (i - 1) + j;
     }
 
-//    public static void main(String[] args){
-//        Percolation a = new Percolation();
-//
-//    }
 }
