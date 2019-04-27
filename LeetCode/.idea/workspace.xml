@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9f93a462-7e7b-4a5f-840d-9fa5fbb878af" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/TransposeMatrix.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Algorithms/Percolation/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Algorithms/Percolation/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algorithms/Percolation/Percolation.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Algorithms/Percolation/Percolation.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algorithms/Percolation/out/production/Percolation/Percolation.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Algorithms/Percolation/out/production/Percolation/Percolation.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Algorithms/Percolation/src/Percolation.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Algorithms/Percolation/src/Percolation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -219,7 +219,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Image Layers" />
       <window_info id="Designer" />

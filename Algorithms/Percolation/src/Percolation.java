@@ -63,4 +63,9 @@ public class Percolation {
     private int getIndex(int i, int j) {
         return gridSize * (i - 1) + j;
     }
+
+//    public static void main(String[] args){
+//        Percolation a = new Percolation();
+//
+//    }
 }
