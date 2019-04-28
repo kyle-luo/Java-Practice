@@ -6,16 +6,8 @@
 
 public class ReverseWordsinaStringIII {
     public static String reverseWords(String s) {
-        String[] splited = s.split(" ");
-        StringBuilder output = new StringBuilder();
-        for (String x: splited){
 
-            output += StringBuffer(x).reverse.toString() + " ";
 
-            output += " ";
-        }
-        output = output.substring(0, output.length() -1);
-        return output;
     }
 
     public static void main(String[] args){
