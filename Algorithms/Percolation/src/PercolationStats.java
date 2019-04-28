@@ -2,17 +2,16 @@ import edu.princeton.cs.algs4.StdRandom;
 import edu.princeton.cs.algs4.StdStats;
 
 public class PercolationStats {
-    private Percolation pc;
-    private int open;
-    private double percentcount[];
+
+    private double[] percentcount;
 
     public PercolationStats(int n, int trials)    // perform trials independent experiments on an n-by-n grid
     {
         if (n <= 0 || trials <= 0) throw new IllegalArgumentException("Both Grid size and trails must bigger than 0.");
         percentcount = new double[trials];
         for (int expNum = 0; expNum <= trials; expNum++){
-            pc = new Percolation(n);
-            open = 0;
+            Percolation pc = new Percolation(n);
+            int open = 0;
             while (!pc.percolates()) {
                 int row = StdRandom.uniform(1, n);
                 int col = StdRandom.uniform(1, n);

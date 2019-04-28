@@ -2,11 +2,11 @@ import edu.princeton.cs.algs4.WeightedQuickUnionUF;
 
 public class Percolation {
 
-    private int gridSize;
+    private final int gridSize;
     private boolean[][] grid;
-    private WeightedQuickUnionUF connect;
-    private int top = 0;
-    private int bot;
+    private final WeightedQuickUnionUF connect;
+    private final int top = 0;
+    private final int bot;
     private int opencount = 0;
 
     public Percolation(int n)                // create n-by-n grid, with all sites blocked
@@ -30,11 +30,11 @@ public class Percolation {
         }
         if (row == 1) connect.union(getIndex(row, col), top);
         if (row == gridSize) {
-            if (isFull(row - 1, col)) connect.union(getIndex(row , col), bot);
-            if (col >1 && isFull(row, col - 1)) connect.union(getIndex(row, col - 1), getIndex(row, col));
+            if (isFull(row - 1, col)) connect.union(getIndex(row, col), bot);
+            if (col > 1 && isFull(row, col - 1)) connect.union(getIndex(row, col - 1), getIndex(row, col));
             if (col < gridSize && isFull(row, col + 1)) connect.union(getIndex(row, col + 1), getIndex(row, col));
         }                                    // prevent all blocks at the bottom row be connected to top
-        if (col >1 && isOpen(row, col - 1)) connect.union(getIndex(row, col - 1), getIndex(row, col));
+        if (col > 1 && isOpen(row, col - 1)) connect.union(getIndex(row, col - 1), getIndex(row, col));
         if (col < gridSize && isOpen(row, col + 1)) connect.union(getIndex(row, col + 1), getIndex(row, col));
         if (row > 1 && isOpen(row - 1, col)) connect.union(getIndex(row - 1, col), getIndex(row, col));
         if (row < gridSize && isOpen(row + 1, col)) connect.union(getIndex(row + 1, col), getIndex(row, col));
