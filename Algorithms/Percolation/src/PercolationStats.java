@@ -51,12 +51,10 @@ public class PercolationStats {
 
     public static void main(String[] args)        // test client (described below)
     {
-//        int n = (int) (Math.random() * 10 + 1);
-//        int T = (int) (Math.random() * 10 + 1);
-//        PercolationStats PS = new PercolationStats(n, T);
-//
-
-        PercolationStats PS = new PercolationStats(10, 10);
+        int n = (int) (Math.random() * 10 + 1);
+        int T = (int) (Math.random() * 10 + 1);
+        PercolationStats PS = new PercolationStats(n, T);
+//        PercolationStats PS = new PercolationStats(10, 10);
         System.out.println("Experiment mean is: " + PS.mean() );
         System.out.println("Experiment standard deviation is: " + PS.stddev());
         System.out.println("95% confidence interval is from " + PS.confidenceLo() + "to " + PS.confidenceHi());
