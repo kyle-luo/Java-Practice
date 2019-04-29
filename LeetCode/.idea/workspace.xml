@@ -2,11 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9f93a462-7e7b-4a5f-840d-9fa5fbb878af" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../Algorithms/Percolation/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Algorithms/Percolation/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Algorithms/Percolation/out/production/Percolation/Percolation.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Algorithms/Percolation/out/production/Percolation/Percolation.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Algorithms/Percolation/out/production/Percolation/PercolationStats.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Algorithms/Percolation/out/production/Percolation/PercolationStats.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Algorithms/Percolation/out/production/Percolation/percolation-submit.zip" beforeDir="false" afterPath="$PROJECT_DIR$/../Algorithms/Percolation/out/production/Percolation/percolation-submit.zip" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Algorithms/Percolation/src/Percolation.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Algorithms/Percolation/src/Percolation.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Algorithms/Percolation/src/PercolationStats.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Algorithms/Percolation/src/PercolationStats.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />

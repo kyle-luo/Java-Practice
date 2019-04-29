@@ -4,7 +4,6 @@ import edu.princeton.cs.algs4.StdStats;
 public class PercolationStats {
 
     private final double[] percentcount;
-    private double[] fractions;
 
     public PercolationStats(int n, int trials)    // perform trials independent experiments on an n-by-n grid
     {
@@ -28,25 +27,21 @@ public class PercolationStats {
 
     public double mean()                          // sample mean of percolation threshold
     {
-        double mean = StdStats.mean(percentcount);
-        return mean;
+        return StdStats.mean(percentcount);
     }
 
     public double stddev()                        // sample standard deviation of percolation threshold
     {
-        double std = StdStats.stddev(percentcount);
-        return std;
+        return StdStats.stddev(percentcount);
     }
 
     public double confidenceLo()                  // low  endpoint of 95% confidence interval
     {
-        double low = mean() - (1.96 * stddev());
-        return low;
+        return mean() - (1.96 * stddev());
     }
     public double confidenceHi()                  // high endpoint of 95% confidence interval
     {
-        double high = mean() + (1.96 * stddev());
-        return high;
+        return mean() + (1.96 * stddev());
     }
 
     public static void main(String[] args)        // test client (described below)
@@ -59,8 +54,8 @@ public class PercolationStats {
 //        System.out.println("Experiment standard deviation is: " + PS.stddev());
 //        System.out.println("95% confidence interval is from " + PS.confidenceLo() + "to " + PS.confidenceHi());
         String confidence = ps.confidenceLo() + ", " + ps.confidenceHi();
-        System.out.println("mean                    = " + ps.mean());
-        System.out.println("stddev                  = " + ps.stddev());
+        System.out.println("mean = " + ps.mean());
+        System.out.println("stddev = " + ps.stddev());
         System.out.println("95% confidence interval = " + confidence);
     }
 }
