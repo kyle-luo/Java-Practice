@@ -11,7 +11,7 @@ public class Percolation {
 
     public Percolation(int n)                // create n-by-n grid, with all sites blocked
     {
-        if (n >= 1)  gridSize= n;
+        if (n >= 1)  gridSize = n;
         else throw new IllegalArgumentException();
         grid = new boolean[n][n];
         connect = new WeightedQuickUnionUF(n * n + 2);
@@ -67,8 +67,8 @@ public class Percolation {
 
     public boolean percolates()              // does the system percolate?
     {
-        for (int i = gridSize * (gridSize - 1) + 1; i <= gridSize * gridSize; i++){
-            if(connect.connected(top, i)) return true;
+        for (int i = gridSize * (gridSize - 1) + 1; i <= gridSize * gridSize; i++) {
+            if (connect.connected(top, i)) return true;
         }
         return false;
     }
