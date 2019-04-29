@@ -3,7 +3,8 @@ import edu.princeton.cs.algs4.StdStats;
 
 public class PercolationStats {
 
-    private double[] percentcount;
+    private final double[] percentcount;
+    private double[] fractions;
 
     public PercolationStats(int n, int trials)    // perform trials independent experiments on an n-by-n grid
     {
@@ -19,9 +20,9 @@ public class PercolationStats {
                     pc.open(row, col);
                     open++;
                 }
+            }
             double percent = (double) open/(n*n);
             percentcount[expNum] = percent;
-            }
         }
     }
 
