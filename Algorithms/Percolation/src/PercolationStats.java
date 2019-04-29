@@ -1,6 +1,6 @@
 import edu.princeton.cs.algs4.StdRandom;
 import edu.princeton.cs.algs4.StdStats;
-import edu.princeton.cs.algs4.StdOut;
+//import edu.princeton.cs.algs4.StdOut;
 
 public class PercolationStats {
 
@@ -10,7 +10,7 @@ public class PercolationStats {
     {
         if (n <= 0 || trials <= 0) throw new IllegalArgumentException("Both Grid size and trails must bigger than 0.");
         percentcount = new double[trials];
-        for (int expNum = 0; expNum <= trials; expNum++) {
+        for (int expNum = 0; expNum < trials; expNum++) {
             Percolation pc = new Percolation(n);
             int open = 0;
             while (!pc.percolates()) {
@@ -55,11 +55,11 @@ public class PercolationStats {
 //        System.out.println("Experiment standard deviation is: " + PS.stddev());
 //        System.out.println("95% confidence interval is from " + PS.confidenceLo() + "to " + PS.confidenceHi());
         String confidence = ps.confidenceLo() + ", " + ps.confidenceHi();
-//        System.out.println("mean                    = " + ps.mean());
-//        System.out.println("stddev                  = " + ps.stddev());
-//        System.out.println("95% confidence interval = " + confidence);
-        StdOut.println("mean                    = " + ps.mean());
-        StdOut.println("stddev                  = " + ps.stddev());
-        StdOut.println("95% confidence interval = " + confidence);
+        System.out.println("mean                    = " + ps.mean());
+        System.out.println("stddev                  = " + ps.stddev());
+        System.out.println("95% confidence interval = " + confidence);
+//        StdOut.println("mean                    = " + ps.mean());
+//        StdOut.println("stddev                  = " + ps.stddev());
+//        StdOut.println("95% confidence interval = " + confidence);
     }
 }
