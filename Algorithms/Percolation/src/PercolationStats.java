@@ -1,5 +1,6 @@
 import edu.princeton.cs.algs4.StdRandom;
 import edu.princeton.cs.algs4.StdStats;
+import edu.princeton.cs.algs4.StdOut;
 
 public class PercolationStats {
 
@@ -13,8 +14,8 @@ public class PercolationStats {
             Percolation pc = new Percolation(n);
             int open = 0;
             while (!pc.percolates()) {
-                int row = StdRandom.uniform(1, n);
-                int col = StdRandom.uniform(1, n);
+                int row = StdRandom.uniform(1, n + 1);
+                int col = StdRandom.uniform(1, n + 1);
                 if (!pc.isOpen(row, col)) {
                     pc.open(row, col);
                     open++;
@@ -54,8 +55,11 @@ public class PercolationStats {
 //        System.out.println("Experiment standard deviation is: " + PS.stddev());
 //        System.out.println("95% confidence interval is from " + PS.confidenceLo() + "to " + PS.confidenceHi());
         String confidence = ps.confidenceLo() + ", " + ps.confidenceHi();
-        System.out.println("mean = " + ps.mean());
-        System.out.println("stddev = " + ps.stddev());
-        System.out.println("95% confidence interval = " + confidence);
+//        System.out.println("mean                    = " + ps.mean());
+//        System.out.println("stddev                  = " + ps.stddev());
+//        System.out.println("95% confidence interval = " + confidence);
+        StdOut.println("mean                    = " + ps.mean());
+        StdOut.println("stddev                  = " + ps.stddev());
+        StdOut.println("95% confidence interval = " + confidence);
     }
 }
