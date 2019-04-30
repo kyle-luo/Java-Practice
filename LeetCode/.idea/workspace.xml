@@ -5,6 +5,7 @@
       <change beforePath="$PROJECT_DIR$/../Algorithms/Percolation/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Algorithms/Percolation/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Algorithms/Percolation/out/production/Percolation/PercolationStats.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Algorithms/Percolation/out/production/Percolation/PercolationStats.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Algorithms/Percolation/out/production/Percolation/percolation-submit.zip" beforeDir="false" afterPath="$PROJECT_DIR$/../Algorithms/Percolation/out/production/Percolation/percolation-submit.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algorithms/Percolation/src/Percolation.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Algorithms/Percolation/src/Percolation.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Algorithms/Percolation/src/PercolationStats.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Algorithms/Percolation/src/PercolationStats.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Algorithms/Percolation/src/percolation-submit.zip" beforeDir="false" afterPath="$PROJECT_DIR$/../Algorithms/Percolation/src/percolation-submit.zip" afterDir="false" />
     </list>
@@ -60,7 +61,7 @@
         <entry file="file://$PROJECT_DIR$/src/ReverseWordsinaStringIII.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="527">
-              <caret line="31" column="38" lean-forward="true" selection-start-line="31" selection-start-column="38" selection-end-line="31" selection-end-column="38" />
+              <caret line="31" column="38" selection-start-line="31" selection-start-column="38" selection-end-line="31" selection-end-column="38" />
               <folding>
                 <element signature="e#0#351#0" expanded="true" />
               </folding>
@@ -101,7 +102,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="260" />
     <option name="y" value="20" />
     <option name="width" value="1400" />
@@ -294,7 +295,7 @@
     <entry file="file://$PROJECT_DIR$/src/ReverseWordsinaStringIII.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="527">
-          <caret line="31" column="38" lean-forward="true" selection-start-line="31" selection-start-column="38" selection-end-line="31" selection-end-column="38" />
+          <caret line="31" column="38" selection-start-line="31" selection-start-column="38" selection-end-line="31" selection-end-column="38" />
           <folding>
             <element signature="e#0#351#0" expanded="true" />
           </folding>

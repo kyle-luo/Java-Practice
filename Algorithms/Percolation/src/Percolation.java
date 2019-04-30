@@ -5,7 +5,7 @@ public class Percolation {
     private final int gridSize;
     private boolean[][] grid;
     private final WeightedQuickUnionUF connect;
-    private final static int top = 0;
+    private static final int top = 0;
 //    private final int bot;
     private int opencount = 0;
 

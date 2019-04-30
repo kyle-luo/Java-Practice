@@ -1,14 +1,16 @@
 import edu.princeton.cs.algs4.StdRandom;
 import edu.princeton.cs.algs4.StdStats;
-//import edu.princeton.cs.algs4.StdOut;
+// import edu.princeton.cs.algs4.StdOut;
 
 public class PercolationStats {
 
+    private final int expnum;
     private final double[] percentcount;
 
     public PercolationStats(int n, int trials)    // perform trials independent experiments on an n-by-n grid
     {
         if (n <= 0 || trials <= 0) throw new IllegalArgumentException("Both Grid size and trails must bigger than 0.");
+        expnum = trials;
         percentcount = new double[trials];
         for (int expNum = 0; expNum < trials; expNum++) {
             Percolation pc = new Percolation(n);
@@ -26,23 +28,30 @@ public class PercolationStats {
         }
     }
 
+    private double mean;
+    private double stddev;
+
     public double mean()                          // sample mean of percolation threshold
     {
-        return StdStats.mean(percentcount);
+        mean = StdStats.mean(percentcount);
+        return mean;
     }
 
     public double stddev()                        // sample standard deviation of percolation threshold
     {
-        return StdStats.stddev(percentcount);
+        stddev = StdStats.stddev(percentcount);
+        return stddev;
     }
+
+    private static final double conf95 = 1.96;
 
     public double confidenceLo()                  // low  endpoint of 95% confidence interval
     {
-        return mean() - (1.96 * stddev());
+        return mean - (conf95 * stddev/ Math.sqrt(expnum));
     }
     public double confidenceHi()                  // high endpoint of 95% confidence interval
     {
-        return mean() + (1.96 * stddev());
+        return mean + (conf95 * stddev/ Math.sqrt(expnum));
     }
 
     public static void main(String[] args)        // test client (described below)
