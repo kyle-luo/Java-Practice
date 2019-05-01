@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9f93a462-7e7b-4a5f-840d-9fa5fbb878af" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../Algorithms/Percolation/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Algorithms/Percolation/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ShortestDistancetoaCharacter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ShortestDistancetoaCharacter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ReverseString.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -65,11 +64,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ShortestDistancetoaCharacter.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="20" column="65" lean-forward="true" selection-start-line="20" selection-start-column="65" selection-end-line="20" selection-end-column="65" />
+            <state relative-caret-position="408">
+              <caret line="24" column="9" lean-forward="true" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/ReverseString.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="391">
+              <caret line="32" column="45" lean-forward="true" selection-start-line="32" selection-start-column="45" selection-end-line="32" selection-end-column="45" />
             </state>
           </provider>
         </entry>
@@ -77,8 +85,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" selection-start-line="3" selection-end-line="4" selection-end-column="48" />
+            <state relative-caret-position="187">
+              <caret line="11" column="30" lean-forward="true" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
             </state>
           </provider>
         </entry>
@@ -102,9 +110,10 @@
         <option value="$PROJECT_DIR$/src/RemoveOutermostParentheses.java" />
         <option value="$PROJECT_DIR$/src/SmallestRangeI.java" />
         <option value="$PROJECT_DIR$/src/TransposeMatrix.java" />
-        <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch.java" />
         <option value="$PROJECT_DIR$/src/ReverseWordsinaStringIII.java" />
         <option value="$PROJECT_DIR$/src/ShortestDistancetoaCharacter.java" />
+        <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch.java" />
+        <option value="$PROJECT_DIR$/src/ReverseString.java" />
       </list>
     </option>
   </component>
@@ -171,7 +180,14 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ShortestDistancetoaCharacter">
+  <component name="RunManager" selected="Application.ReverseString">
+    <configuration name="ReverseString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ReverseString" />
+      <module name="LeetCode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ReverseWordsinaStringIII" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ReverseWordsinaStringIII" />
       <module name="LeetCode" />
@@ -181,13 +197,6 @@
     </configuration>
     <configuration name="ShortestDistancetoaCharacter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ShortestDistancetoaCharacter" />
-      <module name="LeetCode" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SmallestRangeI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SmallestRangeI" />
       <module name="LeetCode" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -209,11 +218,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ReverseString" />
+        <item itemvalue="Java Scratch.Scratch" />
         <item itemvalue="Application.ShortestDistancetoaCharacter" />
         <item itemvalue="Application.ReverseWordsinaStringIII" />
-        <item itemvalue="Java Scratch.Scratch" />
         <item itemvalue="Application.TransposeMatrix" />
-        <item itemvalue="Application.SmallestRangeI" />
       </list>
     </recent_temporary>
   </component>
@@ -291,13 +300,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" selection-start-line="3" selection-end-line="4" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/ReverseWordsinaStringIII.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="527">
@@ -310,8 +312,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ShortestDistancetoaCharacter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" column="65" lean-forward="true" selection-start-line="20" selection-start-column="65" selection-end-line="20" selection-end-column="65" />
+        <state relative-caret-position="408">
+          <caret line="24" column="9" lean-forward="true" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="30" lean-forward="true" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ReverseString.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="32" column="45" lean-forward="true" selection-start-line="32" selection-start-column="45" selection-end-line="32" selection-end-column="45" />
         </state>
       </provider>
     </entry>
