@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9f93a462-7e7b-4a5f-840d-9fa5fbb878af" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/MergeTwoBinaryTrees.java" afterDir="false" />
-    </list>
+    <list default="true" id="9f93a462-7e7b-4a5f-840d-9fa5fbb878af" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -103,8 +101,11 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/MergeTwoBinaryTrees.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="36" selection-start-column="36" selection-end-column="36" />
+            <state relative-caret-position="68">
+              <caret line="31" selection-start-line="31" selection-end-line="60" />
+              <folding>
+                <element signature="e#0#930#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -135,6 +136,7 @@
         <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch.java" />
         <option value="$PROJECT_DIR$/src/NumberofLinesToWriteString.java" />
         <option value="$PROJECT_DIR$/src/RangeSumofBST.java" />
+        <option value="$PROJECT_DIR$/src/MergeTwoBinaryTrees.java" />
       </list>
     </option>
   </component>
@@ -368,8 +370,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/MergeTwoBinaryTrees.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="36" selection-start-column="36" selection-end-column="36" />
+        <state relative-caret-position="68">
+          <caret line="31" selection-start-line="31" selection-end-line="60" />
+          <folding>
+            <element signature="e#0#930#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
