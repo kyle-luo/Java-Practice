@@ -1,0 +1,479 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="276e3a19-2523-4d6e-80e2-62e536981b4e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../Algorithms Test/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Algorithms Test/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Algorithms Test/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Algorithms Test/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Algorithms Test/Algorithms Test.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Algorithms Test/src/UnionFind.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Hello/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Hello/.idea/checkstyle-idea.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Hello/.idea/codeInsightSettings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Hello/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Hello/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Hello/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Hello/.idea/externalDependencies.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Hello/.idea/file.template.settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Hello/.idea/fileTemplates/includes/File Header.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Hello/.idea/fileTemplates/internal/AnnotationType.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Hello/.idea/fileTemplates/internal/Class.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Hello/.idea/fileTemplates/internal/Enum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Hello/.idea/fileTemplates/internal/Interface.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Hello/.idea/fileTemplates/internal/module-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Hello/.idea/fileTemplates/internal/package-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Hello/.idea/findbugs-idea.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Hello/.idea/inspectionProfiles/COS_126.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Hello/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Hello/.idea/libraries/introcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Hello/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Hello/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Hello/.idea/saveactions_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Hello/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Hello/.lift/checkstyle-coursera.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Hello/.lift/checkstyle-lift.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Hello/.lift/checkstyle-suppressions.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Hello/.lift/introcs.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Hello/.lift/spotbugs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Hello/.lift/stdlib.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Hello/Computer Science.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Hello/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Percolation/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Percolation/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Percolation/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Percolation/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Percolation/Percolation.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Percolation/jar/algs4.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Percolation/out/production/Percolation/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Percolation/out/production/Percolation/.idea/checkstyle-idea.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Percolation/out/production/Percolation/.idea/codeInsightSettings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Percolation/out/production/Percolation/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Percolation/out/production/Percolation/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Percolation/out/production/Percolation/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Percolation/out/production/Percolation/.idea/externalDependencies.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Percolation/out/production/Percolation/.idea/file.template.settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Percolation/out/production/Percolation/.idea/fileTemplates/includes/File Header.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Percolation/out/production/Percolation/.idea/fileTemplates/internal/AnnotationType.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Percolation/out/production/Percolation/.idea/fileTemplates/internal/Class.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Percolation/out/production/Percolation/.idea/fileTemplates/internal/Enum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Percolation/out/production/Percolation/.idea/fileTemplates/internal/Interface.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Percolation/out/production/Percolation/.idea/fileTemplates/internal/module-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Percolation/out/production/Percolation/.idea/fileTemplates/internal/package-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Percolation/out/production/Percolation/.idea/findbugs-idea.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Percolation/out/production/Percolation/.idea/inspectionProfiles/Algorithms__Part_I.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Percolation/out/production/Percolation/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Percolation/out/production/Percolation/.idea/libraries/algs4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Percolation/out/production/Percolation/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Percolation/out/production/Percolation/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Percolation/out/production/Percolation/.idea/saveactions_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Percolation/out/production/Percolation/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Percolation/out/production/Percolation/.lift/algs4.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Percolation/out/production/Percolation/.lift/checkstyle-coursera.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Percolation/out/production/Percolation/.lift/checkstyle-lift.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Percolation/out/production/Percolation/.lift/checkstyle-suppressions.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Percolation/out/production/Percolation/.lift/spotbugs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Percolation/out/production/Percolation/Algorithms, Part I.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Percolation/out/production/Percolation/CREDITS" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Percolation/out/production/Percolation/InteractivePercolationVisualizer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Percolation/out/production/Percolation/META-INF/Percolation.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Percolation/out/production/Percolation/Percolation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Percolation/out/production/Percolation/PercolationStats.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Percolation/out/production/Percolation/PercolationVisualizer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Percolation/out/production/Percolation/algs4.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Percolation/out/production/Percolation/greeting57.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Percolation/out/production/Percolation/greeting57.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Percolation/out/production/Percolation/heart25.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Percolation/out/production/Percolation/heart25.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Percolation/out/production/Percolation/input1-no.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Percolation/out/production/Percolation/input1-no.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Percolation/out/production/Percolation/input1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Percolation/out/production/Percolation/input1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Percolation/out/production/Percolation/input10-no.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Percolation/out/production/Percolation/input10-no.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Percolation/out/production/Percolation/input10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Percolation/out/production/Percolation/input10.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Percolation/out/production/Percolation/input2-no.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Percolation/out/production/Percolation/input2-no.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Percolation/out/production/Percolation/input2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Percolation/out/production/Percolation/input2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Percolation/out/production/Percolation/input20.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Percolation/out/production/Percolation/input20.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Percolation/out/production/Percolation/input3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Percolation/out/production/Percolation/input3.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Percolation/out/production/Percolation/input4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Percolation/out/production/Percolation/input4.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Percolation/out/production/Percolation/input5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Percolation/out/production/Percolation/input5.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Percolation/out/production/Percolation/input50.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Percolation/out/production/Percolation/input50.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Percolation/out/production/Percolation/input6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Percolation/out/production/Percolation/input6.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Percolation/out/production/Percolation/input7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Percolation/out/production/Percolation/input7.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Percolation/out/production/Percolation/input8-dups.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Percolation/out/production/Percolation/input8-dups.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Percolation/out/production/Percolation/input8-no.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Percolation/out/production/Percolation/input8-no.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Percolation/out/production/Percolation/input8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Percolation/out/production/Percolation/input8.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Percolation/out/production/Percolation/java60.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Percolation/out/production/Percolation/java60.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Percolation/out/production/Percolation/jerry47.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Percolation/out/production/Percolation/jerry47.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Percolation/out/production/Percolation/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Percolation/out/production/Percolation/percolation-submit.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Percolation/out/production/Percolation/sedgewick60.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Percolation/out/production/Percolation/sedgewick60.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Percolation/out/production/Percolation/snake101.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Percolation/out/production/Percolation/snake101.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Percolation/out/production/Percolation/snake13.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Percolation/out/production/Percolation/snake13.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Percolation/out/production/Percolation/wayne98.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Percolation/out/production/Percolation/wayne98.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Percolation/out/test/Percolation/InteractivePercolationVisualizer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Percolation/out/test/Percolation/PercolationVisualizer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Percolation/resources/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Percolation/resources/.idea/checkstyle-idea.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Percolation/resources/.idea/codeInsightSettings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Percolation/resources/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Percolation/resources/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Percolation/resources/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Percolation/resources/.idea/externalDependencies.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Percolation/resources/.idea/file.template.settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Percolation/resources/.idea/fileTemplates/includes/File Header.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Percolation/resources/.idea/fileTemplates/internal/AnnotationType.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Percolation/resources/.idea/fileTemplates/internal/Class.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Percolation/resources/.idea/fileTemplates/internal/Enum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Percolation/resources/.idea/fileTemplates/internal/Interface.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Percolation/resources/.idea/fileTemplates/internal/module-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Percolation/resources/.idea/fileTemplates/internal/package-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Percolation/resources/.idea/findbugs-idea.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Percolation/resources/.idea/inspectionProfiles/Algorithms__Part_I.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Percolation/resources/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Percolation/resources/.idea/libraries/algs4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Percolation/resources/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Percolation/resources/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Percolation/resources/.idea/saveactions_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Percolation/resources/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Percolation/resources/.lift/algs4.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Percolation/resources/.lift/checkstyle-coursera.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Percolation/resources/.lift/checkstyle-lift.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Percolation/resources/.lift/checkstyle-suppressions.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Percolation/resources/.lift/spotbugs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Percolation/resources/Algorithms, Part I.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Percolation/resources/CREDITS" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Percolation/resources/InteractivePercolationVisualizer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Percolation/resources/Percolation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Percolation/resources/PercolationVisualizer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Percolation/resources/greeting57.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Percolation/resources/greeting57.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Percolation/resources/heart25.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Percolation/resources/heart25.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Percolation/resources/input1-no.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Percolation/resources/input1-no.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Percolation/resources/input1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Percolation/resources/input1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Percolation/resources/input10-no.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Percolation/resources/input10-no.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Percolation/resources/input10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Percolation/resources/input10.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Percolation/resources/input2-no.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Percolation/resources/input2-no.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Percolation/resources/input2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Percolation/resources/input2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Percolation/resources/input20.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Percolation/resources/input20.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Percolation/resources/input3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Percolation/resources/input3.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Percolation/resources/input4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Percolation/resources/input4.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Percolation/resources/input5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Percolation/resources/input5.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Percolation/resources/input50.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Percolation/resources/input50.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Percolation/resources/input6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Percolation/resources/input6.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Percolation/resources/input7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Percolation/resources/input7.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Percolation/resources/input8-dups.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Percolation/resources/input8-dups.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Percolation/resources/input8-no.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Percolation/resources/input8-no.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Percolation/resources/input8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Percolation/resources/input8.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Percolation/resources/java60.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Percolation/resources/java60.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Percolation/resources/jerry47.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Percolation/resources/jerry47.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Percolation/resources/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Percolation/resources/sedgewick60.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Percolation/resources/sedgewick60.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Percolation/resources/snake101.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Percolation/resources/snake101.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Percolation/resources/snake13.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Percolation/resources/snake13.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Percolation/resources/wayne98.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Percolation/resources/wayne98.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Percolation/src/Percolation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Percolation/src/PercolationStats.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Percolation/src/percolation-submit.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Percolation/test/InteractivePercolationVisualizer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Percolation/test/PercolationVisualizer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LeetCode/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../LeetCode/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/MaxPairwiseProduct.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="510">
+              <caret line="39" column="26" lean-forward="true" selection-start-line="39" selection-start-column="26" selection-end-line="39" selection-end-column="26" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/MaxPairwiseProduct.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/Week 1.iml" />
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/.idea/modules.xml" />
+        <option value="$PROJECT_DIR$/.idea/misc.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="260" />
+    <option name="y" value="20" />
+    <option name="width" value="1400" />
+    <option name="height" value="1000" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Week 1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Week 1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Week 1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Week 1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.customizations" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="MaxPairwiseProduct" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="12.0.1" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="MaxPairwiseProduct" />
+      <module name="Week 1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MaxPairwiseProduct" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="276e3a19-2523-4d6e-80e2-62e536981b4e" name="Default Changelist" comment="" />
+      <created>1556848253300</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1556848253300</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="UI Designer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" weight="0.32936078" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32936078" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/MaxPairwiseProduct.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="39" column="26" lean-forward="true" selection-start-line="39" selection-start-column="26" selection-end-line="39" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>10.0.2</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Week 1</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>12.0.1</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
