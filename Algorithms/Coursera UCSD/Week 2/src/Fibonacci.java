@@ -9,6 +9,7 @@ public class Fibonacci {
 //  }
 
   private static long calc_fib(int n) {
+    if (n <= 1) return n;
     long sum1 = 0;
     long sum2 = 1;
     for (int i = 2; i <= n; i++) {
