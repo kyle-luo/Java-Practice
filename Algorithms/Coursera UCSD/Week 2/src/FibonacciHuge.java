@@ -1,11 +1,31 @@
 import java.util.*;
 
 public class FibonacciHuge {
+    private static long calc_fib(long n) {
+        if (n <= 1) return n;
+        long sum1 = 0;
+        long sum2 = 1;
+        for (int i = 2; i <= n; i++) {
+            long trans = sum2;
+            sum2 += sum1;
+            sum1 = trans;
+        }
+        return sum2;
+    }
+
     private static long PisanoPeriod(long m) {
         long a = 0;
         long b = 1;
-        long c = 1;
-        for (int i = 0; i <= m * m; )
+        long c = 0;
+        long d = 1;
+        for (int i = 0; i <= m * m; i++) {
+            long trans = b;
+            b += a;
+            a = trans;
+            c = d;
+            d = b % m;
+
+        }
     }
 
     private static long getFibonacciHugeNaive(long n, long m) {
