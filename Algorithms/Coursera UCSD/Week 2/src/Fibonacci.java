@@ -8,7 +8,7 @@ public class Fibonacci {
 //    return calc_fib(n - 1) + calc_fib(n - 2);
 //  }
 
-  private static long calc_fib(int n) {
+  private static long calc_fib(long n) {
     if (n <= 1) return n;
     long sum1 = 0;
     long sum2 = 1;
@@ -22,7 +22,7 @@ public class Fibonacci {
 
   public static void main(String args[]) {
     Scanner in = new Scanner(System.in);
-    int n = in.nextInt();
+    long n = in.nextInt();
 
     System.out.println(calc_fib(n));
   }
