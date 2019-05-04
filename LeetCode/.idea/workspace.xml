@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9f93a462-7e7b-4a5f-840d-9fa5fbb878af" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../Algorithms/Coursera UCSD/Week 2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Algorithms/Coursera UCSD/Week 2/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Algorithms/Coursera UCSD/Week 2/out/production/Week 2/FibonacciHuge.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Algorithms/Coursera UCSD/Week 2/out/production/Week 2/FibonacciHuge.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Algorithms/Coursera UCSD/Week 2/src/FibonacciHuge.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Algorithms/Coursera UCSD/Week 2/src/FibonacciHuge.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="9f93a462-7e7b-4a5f-840d-9fa5fbb878af" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -260,7 +255,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25586355" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
