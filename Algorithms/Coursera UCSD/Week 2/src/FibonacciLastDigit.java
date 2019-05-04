@@ -23,10 +23,10 @@ public class FibonacciLastDigit {
         long sum2 = 1;
         for (int i = 2; i <= n; i++) {
             long trans = sum2;
-            sum2 += sum1;
+            sum2 = (sum2 + sum1) % 10;
             sum1 = trans;
         }
-        return sum2  % 10;
+        return sum2;
     }
     
     public static void main(String[] args) {
