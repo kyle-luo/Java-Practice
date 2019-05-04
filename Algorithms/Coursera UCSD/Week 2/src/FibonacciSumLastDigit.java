@@ -60,6 +60,7 @@ public class FibonacciSumLastDigit {
         }
         return res;
     }
+
     private static long getFibonacciSumNaive(long n) {
         return (getFibonacciHugeNaive(n + 2, 10) - 1 + 10) % 10;
     }
