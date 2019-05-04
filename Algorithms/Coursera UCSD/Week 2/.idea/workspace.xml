@@ -153,7 +153,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.FibonacciSumLastDigit">
+  <component name="RunManager" selected="Application.FibonacciPartialSum">
     <configuration name="Fibonacci" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Fibonacci" />
       <module name="Week 2" />
@@ -175,6 +175,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="FibonacciPartialSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FibonacciPartialSum" />
+      <module name="Week 2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="FibonacciSumLastDigit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="FibonacciSumLastDigit" />
       <module name="Week 2" />
@@ -182,20 +189,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LCM" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LCM" />
-      <module name="Week 2" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FibonacciPartialSum" />
         <item itemvalue="Application.FibonacciSumLastDigit" />
         <item itemvalue="Application.FibonacciHuge" />
         <item itemvalue="Application.Fibonacci" />
         <item itemvalue="Application.FibonacciLastDigit" />
-        <item itemvalue="Application.LCM" />
       </list>
     </recent_temporary>
   </component>

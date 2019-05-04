@@ -32,7 +32,13 @@ public class FibonacciPartialSum {
         return sum2;
     }
 
-    private static long getFibonacciPartialSumNaive(long from, long to)
+    private static long getFibonacciPartialSumNaive(long from, long to){
+        long sum = 0;
+        for (long i = from; i <= to; i++) {
+            sum += getFibonacciLastDigitNaive(i);
+        }
+        return sum % 10;
+    }
     
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
