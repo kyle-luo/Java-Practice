@@ -2,15 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5b5bc37f-68da-495e-97f8-c10cbd104f9c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Week 2/FibonacciHuge.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Week 2/FibonacciHuge.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Week 2/FibonacciPartialSum.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Week 2/FibonacciSumLastDigit.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Week 2/FibonacciSumSquares.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Week 2/FibonacciSumSquares.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FibonacciHuge.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FibonacciHuge.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Week 2/FibonacciSumLastDigit.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Week 2/FibonacciSumLastDigit.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/FibonacciSumLastDigit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FibonacciSumLastDigit.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FibonacciSumSquares.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FibonacciSumSquares.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../LeetCode/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../LeetCode/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -44,8 +37,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/FibonacciSumLastDigit.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="367">
-              <caret line="47" column="36" lean-forward="true" selection-start-line="47" selection-start-column="36" selection-end-line="47" selection-end-column="36" />
+            <state relative-caret-position="469">
+              <caret line="53" lean-forward="true" selection-start-line="53" selection-end-line="53" />
             </state>
           </provider>
         </entry>
@@ -54,7 +47,7 @@
         <entry file="file://$PROJECT_DIR$/src/FibonacciPartialSum.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="360">
-              <caret line="39" column="24" lean-forward="true" selection-start-line="39" selection-start-column="24" selection-end-line="39" selection-end-column="24" />
+              <caret line="39" column="24" selection-start-line="39" selection-start-column="24" selection-end-line="39" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -122,8 +115,8 @@
         <option value="$PROJECT_DIR$/src/pisanoPeriod.java" />
         <option value="$PROJECT_DIR$/src/FibonacciSumSquares.java" />
         <option value="$PROJECT_DIR$/src/FibonacciHuge.java" />
-        <option value="$PROJECT_DIR$/src/FibonacciSumLastDigit.java" />
         <option value="$PROJECT_DIR$/src/FibonacciPartialSum.java" />
+        <option value="$PROJECT_DIR$/src/FibonacciSumLastDigit.java" />
       </list>
     </option>
   </component>
@@ -325,14 +318,14 @@
     <entry file="file://$PROJECT_DIR$/src/FibonacciPartialSum.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
-          <caret line="39" column="24" lean-forward="true" selection-start-line="39" selection-start-column="24" selection-end-line="39" selection-end-column="24" />
+          <caret line="39" column="24" selection-start-line="39" selection-start-column="24" selection-end-line="39" selection-end-column="24" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/FibonacciSumLastDigit.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="367">
-          <caret line="47" column="36" lean-forward="true" selection-start-line="47" selection-start-column="36" selection-end-line="47" selection-end-column="36" />
+        <state relative-caret-position="469">
+          <caret line="53" lean-forward="true" selection-start-line="53" selection-end-line="53" />
         </state>
       </provider>
     </entry>
