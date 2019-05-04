@@ -20,24 +20,22 @@ public class FibonacciPartialSum {
 //        return sum % 10;
 //    }
 
-    private static long getFibonacciLastDigitNaive(long n) {
+    private static long getFibonacciSumNaive(long n) {
         if (n <= 1) return n;
         long sum1 = 0;
         long sum2 = 1;
-        for (int i = 2; i <= n; i++) {
+        for (int i = 2; i <= n + 2; i++) {
             long trans = sum2;
             sum2 = (sum2 + sum1) % 10;
             sum1 = trans;
         }
-        return sum2;
+        return sum2 - 1;
     }
 
     private static long getFibonacciPartialSumNaive(long from, long to){
-        long sum = 0;
-        for (long i = from; i <= to; i++) {
-            sum += getFibonacciLastDigitNaive(i);
-        }
-        return sum % 10;
+        long a = getFibonacciSumNaive(to);
+        long b = getFibonacciSumNaive(from - 1);
+        return getFibonacciSumNaive(to) - getFibonacciSumNaive(from - 1);
     }
     
     public static void main(String[] args) {

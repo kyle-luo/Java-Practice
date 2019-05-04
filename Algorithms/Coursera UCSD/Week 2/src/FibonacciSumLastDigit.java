@@ -35,12 +35,12 @@ public class FibonacciSumLastDigit {
         if (n <= 1) return n;
         long sum1 = 0;
         long sum2 = 1;
-        for (int i = 2; i <= n + 1; i++) {
+        for (int i = 2; i <= n + 2; i++) {
             long trans = sum2;
             sum2 = (sum2 + sum1) % 10;
             sum1 = trans;
         }
-        return sum2;
+        return sum2 - 1;
     }
 
     public static void main(String[] args) {
