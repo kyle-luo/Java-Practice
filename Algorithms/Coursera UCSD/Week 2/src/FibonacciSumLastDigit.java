@@ -61,7 +61,7 @@ public class FibonacciSumLastDigit {
         return res;
     }
     private static long getFibonacciSumNaive(long n) {
-        return Math.abs(getFibonacciHugeNaive(n + 2, 10) - 1);
+        return (getFibonacciHugeNaive(n + 2, 10) - 1 + 10) % 10;
     }
 
     public static void main(String[] args) {

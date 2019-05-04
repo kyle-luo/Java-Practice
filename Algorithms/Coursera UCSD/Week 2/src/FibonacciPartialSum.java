@@ -65,7 +65,7 @@ public class FibonacciPartialSum {
         return res;
     }
     private static long getFibonacciPartialSumNaive(long from, long to) {
-        return Math.abs((getFibonacciHugeNaive(to + 2, 10) - 1) - ((getFibonacciHugeNaive(from + 1, 10) - 1)));
+        return ((getFibonacciHugeNaive(to + 2, 10) - 1) - ((getFibonacciHugeNaive(from + 1, 10) - 1)) + 10) % 10;
     }
 
 
