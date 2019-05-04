@@ -20,7 +20,7 @@ public class FibonacciHuge {
         long a = 0;
         long b = 1;
         long res = new_n;
-        for (int i = 0; i < new_n; i++) {
+        for (int i = 1; i < new_n; i++) {
             res = (a + b) % m;
             a = b;
             b = res;

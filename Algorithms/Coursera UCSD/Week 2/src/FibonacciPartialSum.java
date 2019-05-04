@@ -33,9 +33,9 @@ public class FibonacciPartialSum {
     }
 
     private static long getFibonacciPartialSumNaive(long from, long to){
-        long a = getFibonacciSumNaive(to);
-        long b = getFibonacciSumNaive(from - 1);
-        return getFibonacciSumNaive(to) - getFibonacciSumNaive(from - 1);
+//        long a = getFibonacciSumNaive(to);
+//        long b = getFibonacciSumNaive(from - 1);
+        return Math.abs(getFibonacciSumNaive(to) - getFibonacciSumNaive(from - 1));
     }
     
     public static void main(String[] args) {
