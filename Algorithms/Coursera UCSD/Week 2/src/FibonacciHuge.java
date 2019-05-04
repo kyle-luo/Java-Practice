@@ -1,6 +1,13 @@
 import java.util.*;
 
 public class FibonacciHuge {
+    private static long PisanoPeriod(long m) {
+        long a = 0;
+        long b = 1;
+        long c = 1;
+        for (int i = 0; i <= m * m; )
+    }
+
     private static long getFibonacciHugeNaive(long n, long m) {
         if (n <= 1)
             return n;
