@@ -20,7 +20,7 @@ public class FibonacciPartialSum {
 //        return sum % 10;
 //    }
 //
-//    code about is original
+/**    code about is original */
 
 //    private static long getFibonacciSumNaive(long n) {
 //        if (n <= 1) return n;
@@ -37,7 +37,7 @@ public class FibonacciPartialSum {
 //    private static long getFibonacciPartialSumNaive(long from, long to){
 //        return Math.abs(getFibonacciSumNaive(to) - getFibonacciSumNaive(from - 1));
 //    }
-//    code above has problems
+/**    code above has problems */
 
     private static long PisanoPeriod(long num) {
         long a = 0;

@@ -19,7 +19,7 @@ public class FibonacciSumLastDigit {
 //        return sum % 10;
 //    }
 
-// code above is original code
+/** code above is original code */
 
 //    private static int getFibonacciSumNaive(long n) {
 //        if (n <= 1) return (int)n;
@@ -33,7 +33,7 @@ public class FibonacciSumLastDigit {
 //        return Math.abs(sum2 - 1);
 //    }
 //
-//    code about is not fast enough
+/**    code about is not fast enough */
 
     private static long PisanoPeriod(long num) {
         long a = 0;

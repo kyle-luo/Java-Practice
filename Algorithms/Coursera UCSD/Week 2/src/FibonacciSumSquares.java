@@ -19,6 +19,8 @@ public class FibonacciSumSquares {
 //        return sum % 10;
 //    }
 
+/**    code above is original */
+
     private static long getFibonacciLastDigitNaive(long n) {
         if (n <= 1) return n;
         long sum1 = 0;
