@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5b5bc37f-68da-495e-97f8-c10cbd104f9c" name="Default Changelist" comment="" />
+    <list default="true" id="5b5bc37f-68da-495e-97f8-c10cbd104f9c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../../LeetCode/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../LeetCode/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -106,7 +108,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.GCD">
+  <component name="RunManager" selected="Application.LCM">
     <configuration name="Fibonacci" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Fibonacci" />
       <module name="Week 2" />
@@ -128,8 +130,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="LCM" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LCM" />
+      <module name="Week 2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LCM" />
         <item itemvalue="Application.GCD" />
         <item itemvalue="Application.FibonacciLastDigit" />
         <item itemvalue="Application.Fibonacci" />
