@@ -2,9 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9f93a462-7e7b-4a5f-840d-9fa5fbb878af" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../Algorithms/Coursera UCSD/Week 2/src/FibonacciPartialSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Algorithms/Coursera UCSD/Week 2/src/FibonacciPartialSum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Algorithms/Coursera UCSD/Week 2/src/FibonacciSumLastDigit.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Algorithms/Coursera UCSD/Week 2/src/FibonacciSumLastDigit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SearchinaBinarySearchTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algorithms/Coursera UCSD/Week 2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Algorithms/Coursera UCSD/Week 2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algorithms/Coursera UCSD/Week 2/out/production/Week 2/FibonacciPartialSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Algorithms/Coursera UCSD/Week 2/out/production/Week 2/FibonacciPartialSum.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algorithms/Coursera UCSD/Week 2/out/production/Week 2/FibonacciSumLastDigit.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Algorithms/Coursera UCSD/Week 2/out/production/Week 2/FibonacciSumLastDigit.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algorithms/Coursera UCSD/Week 2/out/production/Week 2/FibonacciSumSquares.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Algorithms/Coursera UCSD/Week 2/out/production/Week 2/FibonacciSumSquares.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Algorithms/Coursera UCSD/Week 2/src/FibonacciSumSquares.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Algorithms/Coursera UCSD/Week 2/src/FibonacciSumSquares.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -93,7 +97,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/MergeTwoBinaryTrees.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="102">
@@ -105,13 +109,27 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/SearchinaBinarySearchTree.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="639">
+              <caret line="39" column="5" selection-start-line="39" selection-start-column="5" selection-end-line="39" selection-end-column="5" />
+              <folding>
+                <element signature="e#0#755#0" expanded="true" />
+                <element signature="e#798#799#0" expanded="true" />
+                <element signature="e#838#839#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
     </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -132,6 +150,7 @@
         <option value="$PROJECT_DIR$/src/NumberofLinesToWriteString.java" />
         <option value="$PROJECT_DIR$/src/RangeSumofBST.java" />
         <option value="$PROJECT_DIR$/src/MergeTwoBinaryTrees.java" />
+        <option value="$PROJECT_DIR$/src/SearchinaBinarySearchTree.java" />
       </list>
     </option>
   </component>
@@ -372,6 +391,18 @@
           <caret line="33" column="39" lean-forward="true" selection-start-line="33" selection-start-column="39" selection-end-line="33" selection-end-column="39" />
           <folding>
             <element signature="e#0#930#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SearchinaBinarySearchTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="639">
+          <caret line="39" column="5" selection-start-line="39" selection-start-column="5" selection-end-line="39" selection-end-column="5" />
+          <folding>
+            <element signature="e#0#755#0" expanded="true" />
+            <element signature="e#798#799#0" expanded="true" />
+            <element signature="e#838#839#0" expanded="true" />
           </folding>
         </state>
       </provider>

@@ -68,6 +68,10 @@ private static long PisanoPeriod(long num) {
         }
         return res;
     }
+
+    private static long getFibonacciSumSquaresNaive(long n) {
+        return ((getFibonacciHugeNaive(n, 10) + getFibonacciHugeNaive(n - 1, 10)) * getFibonacciHugeNaive(n, 10)) % 10;
+    }
     
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
