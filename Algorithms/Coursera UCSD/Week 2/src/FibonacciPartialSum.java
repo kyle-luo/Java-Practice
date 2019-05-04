@@ -20,6 +20,18 @@ public class FibonacciPartialSum {
 //        return sum % 10;
 //    }
 
+    private static long getFibonacciLastDigitNaive(long n) {
+        if (n <= 1) return n;
+        long sum1 = 0;
+        long sum2 = 1;
+        for (int i = 2; i <= n; i++) {
+            long trans = sum2;
+            sum2 = (sum2 + sum1) % 10;
+            sum1 = trans;
+        }
+        return sum2;
+    }
+
     private static long getFibonacciPartialSumNaive(long from, long to)
     
     public static void main(String[] args) {
