@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9f93a462-7e7b-4a5f-840d-9fa5fbb878af" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../Algorithms/Coursera UCSD/Week 2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Algorithms/Coursera UCSD/Week 2/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Algorithms/Coursera UCSD/Week 2/out/production/Week 2/GCD.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Algorithms/Coursera UCSD/Week 2/out/production/Week 2/GCD.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Algorithms/Coursera UCSD/Week 2/src/GCD.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Algorithms/Coursera UCSD/Week 2/src/GCD.java" afterDir="false" />
-    </list>
+    <list default="true" id="9f93a462-7e7b-4a5f-840d-9fa5fbb878af" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
