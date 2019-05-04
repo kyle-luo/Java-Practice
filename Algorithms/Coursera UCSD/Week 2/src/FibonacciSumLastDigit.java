@@ -19,7 +19,19 @@ public class FibonacciSumLastDigit {
 //        return sum % 10;
 //    }
 
-    private static long getFibonacciLastDigitNaive(long n) {
+//    private static long getFibonacciLastDigitNaive(long n) {
+////        if (n <= 1) return n;
+////        long sum1 = 0;
+////        long sum2 = 1;
+////        for (int i = 2; i <= n; i++) {
+////            long trans = sum2;
+////            sum2 = (sum2 + sum1) % 10;
+////            sum1 = trans;
+////        }
+////        return sum2;
+////    }
+
+    private static long getFibonacciSumNaive(long n) {
         if (n <= 1) return n;
         long sum1 = 0;
         long sum2 = 1;
@@ -28,15 +40,7 @@ public class FibonacciSumLastDigit {
             sum2 = (sum2 + sum1) % 10;
             sum1 = trans;
         }
-        return sum2;
-    }
-
-    private static long getFibonacciSumNaive(long n) {
-        long sum = 0;
-        for (long i = 0; i <= n; i++) {
-            sum += getFibonacciLastDigitNaive(i);
-        }
-        return sum % 10;
+        return sum2 * 2;
     }
 
     public static void main(String[] args) {

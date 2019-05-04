@@ -2,7 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9f93a462-7e7b-4a5f-840d-9fa5fbb878af" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../Algorithms/Coursera UCSD/Week 2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Algorithms/Coursera UCSD/Week 2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algorithms/Coursera UCSD/Week 2/out/production/Week 2/FibonacciHuge.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Algorithms/Coursera UCSD/Week 2/out/production/Week 2/FibonacciHuge.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algorithms/Coursera UCSD/Week 2/out/production/Week 2/FibonacciSumSquares.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Algorithms/Coursera UCSD/Week 2/out/production/Week 2/FibonacciSumSquares.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algorithms/Coursera UCSD/Week 2/src/FibonacciHuge.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Algorithms/Coursera UCSD/Week 2/src/FibonacciHuge.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algorithms/Coursera UCSD/Week 2/src/FibonacciPartialSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Algorithms/Coursera UCSD/Week 2/src/FibonacciPartialSum.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Algorithms/Coursera UCSD/Week 2/src/FibonacciSumLastDigit.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Algorithms/Coursera UCSD/Week 2/src/FibonacciSumLastDigit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algorithms/Coursera UCSD/Week 2/src/FibonacciSumSquares.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Algorithms/Coursera UCSD/Week 2/src/FibonacciSumSquares.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -94,8 +100,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/MergeTwoBinaryTrees.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="629">
-              <caret line="58" column="5" selection-start-line="58" selection-start-column="5" selection-end-line="58" selection-end-column="5" />
+            <state relative-caret-position="187">
+              <caret line="38" column="18" lean-forward="true" selection-start-line="38" selection-start-column="18" selection-end-line="58" selection-end-column="5" />
               <folding>
                 <element signature="e#0#930#0" expanded="true" />
               </folding>
@@ -302,20 +308,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ReverseWordsinaStringIII.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="31" column="38" selection-start-line="31" selection-start-column="38" selection-end-line="31" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ShortestDistancetoaCharacter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="24" column="9" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/RemoveOutermostParentheses.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="537">
@@ -344,12 +336,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/NumberofLinesToWriteString.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="23" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/../../../OGNxbEroEemPcBIa2xz0qA_23b368e7095645cfb10ee7eb36fe3c3e_toolbox1903201003/week1_programming_challenges/1_sum_of_two_digits/APlusB.java">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/RangeSumofBST.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -361,13 +349,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../../../OGNxbEroEemPcBIa2xz0qA_23b368e7095645cfb10ee7eb36fe3c3e_toolbox1903201003/week1_programming_challenges/1_sum_of_two_digits/APlusB.java">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/src/NumberofLinesToWriteString.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="23" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ShortestDistancetoaCharacter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="9" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ReverseWordsinaStringIII.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="31" column="38" selection-start-line="31" selection-start-column="38" selection-end-line="31" selection-end-column="38" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/MergeTwoBinaryTrees.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="629">
-          <caret line="58" column="5" selection-start-line="58" selection-start-column="5" selection-end-line="58" selection-end-column="5" />
+        <state relative-caret-position="187">
+          <caret line="38" column="18" lean-forward="true" selection-start-line="38" selection-start-column="18" selection-end-line="58" selection-end-column="5" />
           <folding>
             <element signature="e#0#930#0" expanded="true" />
           </folding>

@@ -19,8 +19,8 @@ public class FibonacciHuge {
         long new_n = n % PisanoPeriod(m);
         long a = 0;
         long b = 1;
-        long res = 1;
-        for (int i = 1; i < new_n; i++) {
+        long res = new_n;
+        for (int i = 0; i < new_n; i++) {
             res = (a + b) % m;
             a = b;
             b = res;
