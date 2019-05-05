@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5b5bc37f-68da-495e-97f8-c10cbd104f9c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../../../LeetCode/src/SearchinaBinarySearchTree.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Week 2/FibonacciPartialSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Week 2/FibonacciPartialSum.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Week 2/FibonacciSumLastDigit.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Week 2/FibonacciSumLastDigit.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Week 2/FibonacciSumSquares.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Week 2/FibonacciSumSquares.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FibonacciSumSquares.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FibonacciSumSquares.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../LeetCode/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../LeetCode/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -244,7 +239,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Image Layers" />
       <window_info id="Designer" />
