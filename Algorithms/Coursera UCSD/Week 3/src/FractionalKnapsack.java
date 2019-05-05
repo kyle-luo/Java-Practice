@@ -10,7 +10,8 @@ public class FractionalKnapsack {
             vw[i] = (double)values[i]/weights[i];
             if (vw[i] > vw[bigi]) bigi = i;
         }
-        while (capacity > 0) {
+        int itemC = values.length;
+        while (capacity > 0 && itemC > 0) {
             if (capacity > weights[bigi]) {
                 capacity -= weights[bigi];
                 value += values[bigi];
@@ -19,6 +20,7 @@ public class FractionalKnapsack {
                 for (int i = 0; i < vw.length; i++) {
                     if (vw[i] > vw[bigi]) bigi = i;
                 }
+                itemC -= 1;
             }
             else {
                 value += values[bigi] * ((double)capacity/weights[bigi]);

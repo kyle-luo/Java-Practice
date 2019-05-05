@@ -8,20 +8,18 @@ public class CarFueling {
         int tankR = tank;                                   //rank remain
         int count = 0;                                      //refuel count
         for (int i = 0; i < stops.length; i++) {
-            if (stops[i] - currentP < tankR) {
+            if (stops[i] - currentP <= tankR) {
                 tankR -= stops[i] - currentP;
                 currentP = stops[i];
             }
             else {
-                if (stops[i] - stops[i - 1] < tank) {
+                if (stops[i] - stops[i - 1] <= tank) {
                     tankR =  tank - (stops[i] - currentP);  //tank refuel at previous gas station
                     currentP = stops[i];
                     count += 1;
                 }
                 else return -1;
             }
-            System.out.println(currentP + "cp");
-            System.out.println(tankR + "tr");
         }
 
         if (dist - currentP < tank) {
