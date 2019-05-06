@@ -29,8 +29,17 @@ public class CarFueling {
         else return -1;
     }
 
-    static int computeMinRefillsSlow(int dist, int tank, int[] stops) {
-        
+    static int computeMinRefills2(int dist, int tank, int[] stops) {
+        int start = 0;
+        int count = 0;
+        for (int i = 0; i < stops.length - 1; i++) {
+            if (stops[i + 1] - stops[start] >= tank && stops[i] - stops[start] < tank) {
+                start = i;
+                count += 1;
+            }
+            else if
+        }
+
     }
 
     public static void main(String[] args) {

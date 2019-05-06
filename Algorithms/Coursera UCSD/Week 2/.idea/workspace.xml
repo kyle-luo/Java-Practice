@@ -3,8 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="5b5bc37f-68da-495e-97f8-c10cbd104f9c" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/../Week 3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 3/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Week 3/out/production/Week 3/FractionalKnapsack.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 3/out/production/Week 3/FractionalKnapsack.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Week 3/src/FractionalKnapsack.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 3/src/FractionalKnapsack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 3/src/CarFueling.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 3/src/CarFueling.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -240,6 +239,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Image Layers" />
       <window_info id="Designer" />
