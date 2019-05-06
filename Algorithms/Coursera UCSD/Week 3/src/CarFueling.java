@@ -29,6 +29,10 @@ public class CarFueling {
         else return -1;
     }
 
+    static int computeMinRefillsSlow(int dist, int tank, int[] stops) {
+        
+    }
+
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int dist = scanner.nextInt();

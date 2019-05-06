@@ -3,9 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="5b5bc37f-68da-495e-97f8-c10cbd104f9c" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/../Week 3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 3/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Week 3/out/production/Week 3/CarFueling.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 3/out/production/Week 3/CarFueling.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Week 3/out/production/Week 3/FractionalKnapsack.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 3/out/production/Week 3/FractionalKnapsack.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Week 3/src/CarFueling.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 3/src/CarFueling.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Week 3/src/FractionalKnapsack.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 3/src/FractionalKnapsack.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -62,7 +60,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/FibonacciSumSquares.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="537">
+            <state relative-caret-position="792">
               <caret line="78" column="48" lean-forward="true" selection-start-line="78" selection-start-column="48" selection-end-line="78" selection-end-column="48" />
             </state>
           </provider>
@@ -242,7 +240,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Image Layers" />
       <window_info id="Designer" />
@@ -335,7 +332,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/FibonacciSumSquares.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="537">
+        <state relative-caret-position="792">
           <caret line="78" column="48" lean-forward="true" selection-start-line="78" selection-start-column="48" selection-end-line="78" selection-end-column="48" />
         </state>
       </provider>
