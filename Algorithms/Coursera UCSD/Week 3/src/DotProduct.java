@@ -25,6 +25,10 @@ public class DotProduct {
         }
     }
 
+    private static long maxDotProduct2(int[] a, int[] b) {
+
+    }
+
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int n = scanner.nextInt();
