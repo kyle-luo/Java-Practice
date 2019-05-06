@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b3523d8e-910e-4204-b65a-2ebe96b88ffe" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Week 3/CarFueling$Stop.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Week 3/CarFueling.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Week 3/CarFueling.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Week 3/DotProduct.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Week 3/DotProduct.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DotProduct.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DotProduct.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Change.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Change.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -19,11 +15,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Change.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="19" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
+            <state relative-caret-position="374">
+              <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
             </state>
           </provider>
         </entry>
@@ -62,11 +58,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/DotProduct.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="418">
-              <caret line="93" column="5" lean-forward="true" selection-start-line="93" selection-start-column="5" selection-end-line="93" selection-end-column="5" />
+            <state relative-caret-position="340">
+              <caret line="20" column="9" lean-forward="true" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -97,12 +93,12 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Change.java" />
         <option value="$PROJECT_DIR$/src/FractionalKnapsack.java" />
         <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch.java" />
         <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.java" />
         <option value="$PROJECT_DIR$/src/CarFueling.java" />
         <option value="$PROJECT_DIR$/src/DotProduct.java" />
+        <option value="$PROJECT_DIR$/src/Change.java" />
       </list>
     </option>
   </component>
@@ -187,7 +183,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.DotProduct">
+  <component name="RunManager" selected="Application.Change">
     <configuration name="CarFueling" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CarFueling" />
       <module name="Week 3" />
@@ -195,15 +191,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DotProduct" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DotProduct" />
+    <configuration name="Change" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Change" />
       <module name="Week 3" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FractionalKnapsack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FractionalKnapsack" />
+    <configuration name="DotProduct" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DotProduct" />
       <module name="Week 3" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -225,11 +221,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Change" />
         <item itemvalue="Application.DotProduct" />
         <item itemvalue="Application.CarFueling" />
         <item itemvalue="Java Scratch.Scratch (1)" />
         <item itemvalue="Java Scratch.Scratch" />
-        <item itemvalue="Application.FractionalKnapsack" />
       </list>
     </recent_temporary>
   </component>
@@ -282,13 +278,6 @@
     <entry file="file://$PROJECT_DIR$/../../../../../OGNxbEroEemPcBIa2xz0qA_23b368e7095645cfb10ee7eb36fe3c3e_toolbox1903201003/week3_greedy_algorithms/2_maximum_value_of_the_loot/FractionalKnapsack.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Change.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="19" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/FractionalKnapsack.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="578">
@@ -333,8 +322,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/DotProduct.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="93" column="5" lean-forward="true" selection-start-line="93" selection-start-column="5" selection-end-line="93" selection-end-column="5" />
+        <state relative-caret-position="340">
+          <caret line="20" column="9" lean-forward="true" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Change.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
         </state>
       </provider>
     </entry>

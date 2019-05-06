@@ -4,11 +4,11 @@ public class Change {
     private static int getChange(int m) {
         //write your code here
         int count = 0;
-        while (m >= 10) {
+        if (m >= 10) {
             count += m / 10;
             m %= 10;
         }
-        while (m >= 5) {
+        if (m >= 5) {
             count += m / 5;
             m %= 5;
         }
@@ -20,7 +20,6 @@ public class Change {
         Scanner scanner = new Scanner(System.in);
         int m = scanner.nextInt();
         System.out.println(getChange(m));
-
     }
 }
 
