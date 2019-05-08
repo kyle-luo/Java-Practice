@@ -25,7 +25,7 @@ public class DotProduct {
         }
         System.out.println(maxDotProduct(a, b));
     }
-
+    
     /** Below is test code
     private static long maxDotProduct2(int[] a, int[] b) {
         //write your code here
