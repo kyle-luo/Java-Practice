@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b3523d8e-910e-4204-b65a-2ebe96b88ffe" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/DotProduct.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DotProduct.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CarFueling.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CarFueling.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -36,8 +37,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/CarFueling.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="476">
-              <caret line="28" column="9" selection-start-line="28" selection-start-column="9" selection-end-line="28" selection-end-column="9" />
+            <state relative-caret-position="527">
+              <caret line="31" column="4" selection-start-line="31" selection-start-column="4" selection-end-line="31" selection-end-column="4" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -96,9 +97,9 @@
         <option value="$PROJECT_DIR$/src/FractionalKnapsack.java" />
         <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch.java" />
         <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.java" />
-        <option value="$PROJECT_DIR$/src/CarFueling.java" />
         <option value="$PROJECT_DIR$/src/Change.java" />
         <option value="$PROJECT_DIR$/src/DotProduct.java" />
+        <option value="$PROJECT_DIR$/src/CarFueling.java" />
       </list>
     </option>
   </component>
@@ -112,7 +113,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="260" />
     <option name="y" value="20" />
     <option name="width" value="1400" />
@@ -244,6 +245,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18336888" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -325,8 +327,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/CarFueling.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="28" column="9" selection-start-line="28" selection-start-column="9" selection-end-line="28" selection-end-column="9" />
+        <state relative-caret-position="527">
+          <caret line="31" column="4" selection-start-line="31" selection-start-column="4" selection-end-line="31" selection-end-column="4" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
