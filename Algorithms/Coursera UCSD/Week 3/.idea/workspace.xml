@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b3523d8e-910e-4204-b65a-2ebe96b88ffe" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../../../LeetCode/src/LeafSimilarTrees.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../LeetCode/src/NAryTreePreorderTraversal.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../LeetCode/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../LeetCode/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -250,7 +250,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18550107" />
