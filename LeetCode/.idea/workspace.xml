@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9f93a462-7e7b-4a5f-840d-9fa5fbb878af" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/MatrixCellsInDistanceOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LastStoneWeight.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Algorithms/Coursera UCSD/Week 3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Algorithms/Coursera UCSD/Week 3/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -52,11 +52,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/MatrixCellsInDistanceOrder.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="810">
-              <caret line="59" column="4" selection-start-line="59" selection-start-column="4" selection-end-line="59" selection-end-column="4" />
+            <state relative-caret-position="1309">
+              <caret line="77" column="22" selection-start-line="77" selection-start-column="22" selection-end-line="77" selection-end-column="22" />
               <folding>
                 <element signature="e#0#1279#0" expanded="true" />
               </folding>
@@ -64,11 +64,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/NAryTreePreorderTraversal.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/LastStoneWeight.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="19" column="50" selection-start-line="19" selection-start-column="50" selection-end-line="19" selection-end-column="50" />
+            <state>
+              <caret selection-end-column="30" />
             </state>
           </provider>
         </entry>
@@ -156,6 +156,7 @@
         <option value="$PROJECT_DIR$/src/IncreasingOrderSearchTree.java" />
         <option value="$PROJECT_DIR$/src/UnivaluedBinaryTree.java" />
         <option value="$PROJECT_DIR$/src/MatrixCellsInDistanceOrder.java" />
+        <option value="$PROJECT_DIR$/src/LastStoneWeight.java" />
       </list>
     </option>
   </component>
@@ -458,17 +459,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/IncreasingOrderSearchTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
-          <folding>
-            <element signature="e#0#375#0" expanded="true" />
-            <element signature="e#424#433#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/UnivaluedBinaryTree.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="408">
@@ -481,11 +471,29 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/MatrixCellsInDistanceOrder.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="810">
-          <caret line="59" column="4" selection-start-line="59" selection-start-column="4" selection-end-line="59" selection-end-column="4" />
+        <state relative-caret-position="1309">
+          <caret line="77" column="22" selection-start-line="77" selection-start-column="22" selection-end-line="77" selection-end-column="22" />
           <folding>
             <element signature="e#0#1279#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/IncreasingOrderSearchTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+          <folding>
+            <element signature="e#0#375#0" expanded="true" />
+            <element signature="e#424#433#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LastStoneWeight.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-column="30" />
         </state>
       </provider>
     </entry>
