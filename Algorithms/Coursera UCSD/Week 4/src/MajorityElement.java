@@ -2,14 +2,27 @@ import java.util.*;
 import java.io.*;
 
 public class MajorityElement {
-    private static int getMajorityElement(int[] a, int left, int right) {
-        if (left == right) {
-            return -1;
+    private static int getMajorityElement(int[] a) {
+        Map<Integer, Integer> counts = new HashMap<>();
+        for (int x: a) {
+            counts.put(x, counts.getOrDefault(x, 0) + 1);
         }
-        if (left + 1 == right) {
-            return a[left];
+        for (int y: counts.keySet()) {
+            if (counts.get(y) > a.length / 2) return y;
         }
-        //write your code here
+        return -1;
+    }
+
+    private static int getMajorityElementNaive(int[] a) {
+        for (int x: a) {
+            int count = 0;
+            for (int y: a) {
+                if (y == x) count++;
+                if (count > (a.length/2)) {
+                    return x;
+                }
+            }
+        }
         return -1;
     }
 
@@ -20,7 +33,7 @@ public class MajorityElement {
         for (int i = 0; i < n; i++) {
             a[i] = scanner.nextInt();
         }
-        if (getMajorityElement(a, 0, a.length) != -1) {
+        if (getMajorityElement(a) != -1) {
             System.out.println(1);
         } else {
             System.out.println(0);
