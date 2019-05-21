@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9f93a462-7e7b-4a5f-840d-9fa5fbb878af" name="Default Changelist" comment="" />
+    <list default="true" id="9f93a462-7e7b-4a5f-840d-9fa5fbb878af" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/MatrixCellsInDistanceOrder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algorithms/Coursera UCSD/Week 3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Algorithms/Coursera UCSD/Week 3/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -36,7 +40,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/UnivaluedBinaryTree.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="408">
@@ -48,11 +52,14 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/SubdomainVisitCount.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/MatrixCellsInDistanceOrder.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="527">
-              <caret line="51" column="9" selection-start-line="51" selection-start-column="9" selection-end-line="51" selection-end-column="9" />
+            <state relative-caret-position="810">
+              <caret line="59" column="4" selection-start-line="59" selection-start-column="4" selection-end-line="59" selection-end-column="4" />
+              <folding>
+                <element signature="e#0#1279#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -148,6 +155,7 @@
         <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.java" />
         <option value="$PROJECT_DIR$/src/IncreasingOrderSearchTree.java" />
         <option value="$PROJECT_DIR$/src/UnivaluedBinaryTree.java" />
+        <option value="$PROJECT_DIR$/src/MatrixCellsInDistanceOrder.java" />
       </list>
     </option>
   </component>
@@ -467,6 +475,16 @@
           <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
           <folding>
             <element signature="e#0#174#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MatrixCellsInDistanceOrder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="810">
+          <caret line="59" column="4" selection-start-line="59" selection-start-column="4" selection-end-line="59" selection-end-column="4" />
+          <folding>
+            <element signature="e#0#1279#0" expanded="true" />
           </folding>
         </state>
       </provider>
