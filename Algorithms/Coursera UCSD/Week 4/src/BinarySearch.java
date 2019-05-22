@@ -5,7 +5,14 @@ public class BinarySearch {
 
     static int binarySearch(int[] a, int x) {
         int left = 0, right = a.length - 1;
-        return binary(a, x, left, right);
+//        return binary(a, x, left, right);
+        while (left <= right) {
+            int mid = (left + right) / 2;
+            if (a[mid] == x) return mid;
+            else if (a[mid] < x) left = mid + 1;
+            else right = mid - 1;
+        }
+        return -1;
     }
 
     static int binary(int[] a, int key, int low, int high) {
