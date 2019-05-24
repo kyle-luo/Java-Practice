@@ -11,6 +11,6 @@ public class LastStoneWeight {
             stone.add(first - second);
         }
         return stone.get(0);
-
     }
 }
+
