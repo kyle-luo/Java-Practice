@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9f93a462-7e7b-4a5f-840d-9fa5fbb878af" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/BaseballGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BaseballGame.java" afterDir="false" />
-    </list>
+    <list default="true" id="9f93a462-7e7b-4a5f-840d-9fa5fbb878af" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -87,8 +85,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/BaseballGame.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="782">
-              <caret line="46" column="5" selection-start-line="46" selection-start-column="5" selection-end-line="46" selection-end-column="5" />
+            <state relative-caret-position="753">
+              <caret line="47" column="1" lean-forward="true" selection-start-line="47" selection-start-column="1" selection-end-line="47" selection-end-column="1" />
               <folding>
                 <element signature="e#0#2000#0" expanded="true" />
                 <element signature="e#2088#2097#0" expanded="true" />
@@ -543,8 +541,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/BaseballGame.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="782">
-          <caret line="46" column="5" selection-start-line="46" selection-start-column="5" selection-end-line="46" selection-end-column="5" />
+        <state relative-caret-position="753">
+          <caret line="47" column="1" lean-forward="true" selection-start-line="47" selection-start-column="1" selection-end-line="47" selection-end-column="1" />
           <folding>
             <element signature="e#0#2000#0" expanded="true" />
             <element signature="e#2088#2097#0" expanded="true" />
