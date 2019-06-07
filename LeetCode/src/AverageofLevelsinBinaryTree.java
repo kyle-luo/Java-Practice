@@ -35,3 +35,38 @@ public class AverageofLevelsinBinaryTree {
         }
     }
 }
+
+
+public class AverageofLevelsinBinaryTree2 {
+    List<List<Integer>> output = new ArrayList<>();
+    public List<Double> averageOfLevels(TreeNode root) {
+        if (root == null) {
+            List<Double> output = new ArrayList<>();
+            return output;
+        }
+        else {
+            trav(root, 0);
+            List<Double> result = new ArrayList<>();
+            for (int i = 0; i < output.size(); i++) {
+                double sum = 0;
+                List<Integer> list = output.get(i);
+                for (int j = 0; j < list.size(); j++) {
+                    sum += output.get(i).get(j);
+                }
+                result.add(sum / list.size());
+            }
+            return result;
+        }
+    }
+    private void trav(TreeNode node, int depth) {
+        depth++;
+        if (output.size() < depth) {
+            List<Integer> newList= new ArrayList<>();
+            output.add(newList);
+        }
+        List<Integer> temp = output.get(depth - 1);
+        temp.add(node.val);
+        if (node.left != null) trav(node.left, depth);
+        if (node.right != null) trav(node.right, depth);
+    }
+}
