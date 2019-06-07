@@ -11,4 +11,16 @@ public class BinaryNumberwithAlternatingBits {
         }
         return true;
     }
+
+    public boolean hasAlternatingBits2(int n) {
+        if (n == 1) return true;
+        String bi = Integer.toBinaryString(n);
+        char[] bic = bi.toCharArray();
+        char pre = bic[0];
+        for (int i = 1; i < bic.length; i++) {
+            if (bic[i] == pre) return false;
+            pre = bic[i];
+        }
+        return true;
+    }
 }

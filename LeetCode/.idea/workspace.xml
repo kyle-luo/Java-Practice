@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9f93a462-7e7b-4a5f-840d-9fa5fbb878af" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/BinaryNumberwithAlternatingBits.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BinaryNumberwithAlternatingBits.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BinaryNumberwithAlternatingBits.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -31,8 +31,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/BinaryNumberwithAlternatingBits.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="44" selection-start-column="44" selection-end-column="44" />
+            <state relative-caret-position="357">
+              <caret line="21" column="25" lean-forward="true" selection-start-line="21" selection-start-column="25" selection-end-line="21" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -186,6 +186,7 @@
         <option value="$PROJECT_DIR$/src/AverageofLevelsinBinaryTree.java" />
         <option value="$PROJECT_DIR$/src/InvertBinaryTree.java" />
         <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.java" />
+        <option value="$PROJECT_DIR$/src/BinaryNumberwithAlternatingBits.java" />
       </list>
     </option>
   </component>
@@ -671,8 +672,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/BinaryNumberwithAlternatingBits.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="44" selection-start-column="44" selection-end-column="44" />
+        <state relative-caret-position="357">
+          <caret line="21" column="25" lean-forward="true" selection-start-line="21" selection-start-column="25" selection-end-line="21" selection-end-column="25" />
         </state>
       </provider>
     </entry>
