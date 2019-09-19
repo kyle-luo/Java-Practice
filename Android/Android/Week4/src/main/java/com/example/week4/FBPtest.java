@@ -6,5 +6,10 @@ public class FBPtest {
         messi.setName("Messi");
         messi.run();
         messi.jump();
+
+        FBP ronaldo = new FBP();
+        ronaldo.setName("Ronaldo");
+        ronaldo.run();
+        ronaldo.jump();
     }
 }
