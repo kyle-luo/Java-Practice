@@ -10,4 +10,8 @@ public class GradeBook2 {
     public String getCourseName() {
         return courseName;
     }
+
+    public void display() {
+        System.out.println("Welcome to Gradebook!\n" + courseName);
+    }
 }
