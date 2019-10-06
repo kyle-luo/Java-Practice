@@ -1,2 +1,0 @@
-include ':app', ':lib', ':Week4'
-rootProject.name='My Application'
