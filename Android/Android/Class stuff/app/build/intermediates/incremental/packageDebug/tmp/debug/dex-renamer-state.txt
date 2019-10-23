@@ -1,0 +1,4 @@
+#Wed Sep 04 19:37:15 EDT 2019
+base.0=C\:\\Users\\Kaiyu\\Desktop\\java files\\Android\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
